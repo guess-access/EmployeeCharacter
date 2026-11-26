@@ -1,0 +1,31 @@
+PRIME KREATIVES — AVATAR PROMPT LIBRARY / HOW TO USE
+
+PURPOSE
+Create a consistent set of five Prime Kreatives 3D CGI avatars from one uploaded reference photo. These prompts work with male and female reference photos. The uploaded photo determines the person's visible identity; do not hardcode gender or appearance.
+
+FILES
+01_Working_Profile.txt — seated in a white swivel chair, using an open laptop.
+02_Daily_Update_Standard.txt — one hand at chin in a thinking gesture, other hand thumbs-up.
+03_Great_Job.txt — both fists raised, both feet on the ground.
+04_Problem_Report.txt — one open palm toward viewer, other index finger near temple.
+05_Profile_Picture.txt — half-body portrait with arms crossed.
+
+WORKFLOW
+1. Upload one clear photo of the person. Prefer a single person with face visible and good lighting.
+2. Generate the Profile Picture first using 05_Profile_Picture.txt.
+3. Review the likeness. Preserve face shape, skin tone, hairstyle, hair color, glasses if present, facial hair if present, and other visible details.
+4. Reuse the original photo for each remaining pose. If supported, also attach the approved profile avatar as a secondary style reference.
+5. Generate one image at a time. Never request a collage.
+6. Keep the shared identity, style, outfit, and logo consistent. Only the pose, expression, and specified props should change.
+
+IDENTITY RULE
+Do not assume or force male/female, hairstyle, facial hair, glasses, skin tone, or body type. Derive visible traits from the uploaded photo. Keep the same recognizable person across all five images.
+
+OUTPUT
+Square 1:1 PNG, centered subject, clean edges, full pose visible with comfortable padding. Request genuine alpha transparency. A checkerboard pattern baked into an image is not transparency; verify the PNG alpha channel. If the image tool cannot provide transparency, state that clearly rather than claiming it did.
+
+BRANDING
+Use a supplied official PK crown logo asset when available. Image generators can distort logos and text, so inspect the chest mark and correct it with the official asset if needed.
+
+PRIVACY
+Use photos you own or have permission to use. Do not commit private reference photos, generated private avatars, credentials, or personal data to a public repository.
