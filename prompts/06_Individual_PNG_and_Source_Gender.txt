@@ -1,0 +1,14 @@
+PRIME KREATIVES — SHARED OUTPUT AND IDENTITY RULES
+
+Apply these rules together with the selected avatar prompt for every image-generation request. Generate only the avatar type specified by that selected prompt.
+
+INDIVIDUAL PNG OUTPUT
+- Generate and save each avatar as its own separate PNG file. One request produces one image file for one avatar pose.
+- Never combine multiple characters, poses, avatar types, or generated images into one image. No collages, contact sheets, grids, diptychs, or multi-panel layouts.
+- Keep each image as a standalone square 1:1 PNG. Use genuine alpha transparency where the image-generation provider supports it; do not claim transparency if the result has an opaque background.
+- When generating the full set, make five separate image-generation requests and save five separate PNG files, one per avatar type.
+
+SOURCE GENDER AND IDENTITY
+- Follow the gender presentation visibly shown by the person in the uploaded reference photo. Do not change or contradict it in the generated character.
+- Use the uploaded photo as the source of truth for the same person's recognizable identity and visible traits. Do not invent or impose gendered appearance traits that are not supported by the reference.
+- Preserve the visible identity consistently across separately generated avatar images. Do not hardcode a gender or substitute another person.
